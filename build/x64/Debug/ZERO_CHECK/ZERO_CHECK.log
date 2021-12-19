@@ -1,0 +1,19 @@
+﻿  Checking Build System
+  CMake is re-running because C:/dev/ParadOPTIx/build/ParadOPTIx/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/dev/ParadOPTIx/build/ParadOPTIx/CMakeFiles/cuda_compile_ptx_1.dir/cuda_compile_ptx_1_generated_devicePrograms.cu.ptx.depend'
+    is newer than 'C:/dev/ParadOPTIx/build/ParadOPTIx/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.19042.
+  CMake Deprecation Warning at CMakeLists.txt:7 (cmake_minimum_required):
+    Compatibility with CMake < 2.8.12 will be removed from a future version of
+    CMake.
+  
+    Update the VERSION argument <min> value or use a ...<max> suffix to tell
+    CMake that the project does not need compatibility with older versions.
+  
+  
+  -- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+  -- Using Win32 for window creation
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/dev/ParadOPTIx/build
